@@ -150,7 +150,7 @@ Developers with merged or in-review PRs to Bitcoin open-source projects.
 - **Projects:** rust-bitcoin, stackmate
 - **PRs Under Review:** rust-bitcoin
 - **Journey:** Completed Decoding Bitcoin → Started contributing to rust-bitcoin → Now building stackmate (platform for Bitcoin project contributors)
-- **Current:** Building stackmate — a platform connecting Bitcoin project contributors with work
+- **Current:** Building stackmate - a platform connecting Bitcoin project contributors with work
 - **What's Next:** rust-bitcoin contributions, stackmate launch
 
 ---
@@ -161,7 +161,7 @@ Developers with merged or in-review PRs to Bitcoin open-source projects.
 - **Cohort:** Decoding Bitcoin
 - **Focus:** Rust, light client nodes
 - **Projects:** SurrealDB (Rust skill building), targeting Floresta, BDK, SeedSigner
-- **PRs Merged:** 1 (SurrealDB — Rust OSS, demonstrating capability)
+- **PRs Merged:** 1 (SurrealDB - Rust OSS, demonstrating capability)
 - **Journey:** Completed Decoding Bitcoin → Merged first Rust PR to SurrealDB → Now targeting Bitcoin-specific projects
 - **Current:** Working through Floresta, BDK, and SeedSigner codebases
 - **What's Next:** First Bitcoin-specific PR (Floresta or BDK)
