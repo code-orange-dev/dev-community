@@ -2,13 +2,15 @@
 
 > **Profiles of developers trained through Code Orange Dev School who are contributing to Bitcoin open-source.**
 
+> **Profile snapshot: May 2026.** The per-person PR counts and expected dates below are historical profile context, not a live operating scorecard. For current, linked PR states and current totals, use the [PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard), which records its reporting cutoff and counting rules.
+
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-orange.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
-## Active Contributors
+## Active Contributors (profile snapshot)
 
-Developers with merged or in-review PRs to Bitcoin open-source projects.
+Developers with merged or in-review PRs to Bitcoin open-source projects at the profile snapshot. Do not aggregate this section into current totals; profiles update on a different cadence from the dashboard.
 
 ---
 
@@ -168,9 +170,9 @@ Developers with merged or in-review PRs to Bitcoin open-source projects.
 
 ---
 
-## Emerging Contributors
+## Emerging Contributors (profile snapshot)
 
-Developers who have completed cohorts and are preparing their first PRs.
+Developers who had completed cohorts and were preparing their first PRs at the profile snapshot. Verify current status on the dashboard before outreach, reporting, or fellowship selection.
 
 | Developer | GitHub | Target Project | Expected |
 |-----------|--------|---------------|----------|
