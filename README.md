@@ -183,7 +183,7 @@ Developers who had completed cohorts and were preparing their first PRs at the p
 | Kirito | [@yomanthunder](https://github.com/yomanthunder) | coinswap / Stratum V2 | Q2 2026 |
 | Martin Barilik | [@martinbarilik](https://github.com/martinbarilik) | StartOs / Robosats | Q2 2026 |
 | Dailycisea | [@fqhhusain](https://github.com/fqhhusain) | Bitcoin FOSS (TBD) | Q2 2026 |
-| Dashingtimmy | [@awzbgr](https://github.com/awzbgr) | Fedi ecosystem / BICustody | Q2 2026 |
+| Dashingtimmy | handle pending (the listed account @awzbgr no longer exists on GitHub) | Fedi ecosystem / BICustody | Q2 2026 |
 | Mr Miyagi | *(in progress)* | Rust Bitcoin OSS | Q3 2026 |
 
 ---
